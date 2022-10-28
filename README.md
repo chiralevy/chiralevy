@@ -1,7 +1,7 @@
 ### Hi there. I'm Chira (Ky-Ruh)👋
 
-- 🧠 I am a student of all things **learning & decision-making** related.
-- 💻 I am an ML enthusiast and an almost-certified data scientist. Currently, I am interviewing for jobs!
+- 🧠 I am a student of all things involving **learning & decision-making**.
+- 💻 I am an ML enthusiast and an almost-certified data scientist.
 - 🤹 I am quick to accept challenges and enjoy the cyclic process of exploring, failing, and learning.
 - 🎨 My favorite solutions are those that are elegant and creative.
 - 💬 Ask me about accessing and navigating college, choosing a major, and opportunities to use #TechForGood!
