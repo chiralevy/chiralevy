@@ -1,4 +1,4 @@
-### Hi there. I'm Chira (Ky-Ruh)👋
+### Hi there. I'm Chira (Ky-Ruh)👋🏾
 
 - I am a developer, data scientist, and data ethics enthusiast. ⚡
 - I am a student of all things involving learning and decision-making. 🧠
